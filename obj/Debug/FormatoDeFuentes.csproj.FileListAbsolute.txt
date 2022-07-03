@@ -1,0 +1,11 @@
+D:\05.Internet\Google Drive\00.Proyectos\03.C#\FormatoDeFuentes\bin\Debug\FormatoDeFuentes.exe.config
+D:\05.Internet\Google Drive\00.Proyectos\03.C#\FormatoDeFuentes\bin\Debug\FormatoDeFuentes.exe
+D:\05.Internet\Google Drive\00.Proyectos\03.C#\FormatoDeFuentes\bin\Debug\FormatoDeFuentes.pdb
+D:\05.Internet\Google Drive\00.Proyectos\03.C#\FormatoDeFuentes\obj\Debug\FormatoDeFuentes.csproj.AssemblyReference.cache
+D:\05.Internet\Google Drive\00.Proyectos\03.C#\FormatoDeFuentes\obj\Debug\FormatoDeFuentes.csproj.SuggestedBindingRedirects.cache
+D:\05.Internet\Google Drive\00.Proyectos\03.C#\FormatoDeFuentes\obj\Debug\FormatoDeFuentes.Form1.resources
+D:\05.Internet\Google Drive\00.Proyectos\03.C#\FormatoDeFuentes\obj\Debug\FormatoDeFuentes.Properties.Resources.resources
+D:\05.Internet\Google Drive\00.Proyectos\03.C#\FormatoDeFuentes\obj\Debug\FormatoDeFuentes.csproj.GenerateResource.cache
+D:\05.Internet\Google Drive\00.Proyectos\03.C#\FormatoDeFuentes\obj\Debug\FormatoDeFuentes.csproj.CoreCompileInputs.cache
+D:\05.Internet\Google Drive\00.Proyectos\03.C#\FormatoDeFuentes\obj\Debug\FormatoDeFuentes.exe
+D:\05.Internet\Google Drive\00.Proyectos\03.C#\FormatoDeFuentes\obj\Debug\FormatoDeFuentes.pdb
